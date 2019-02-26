@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 .show();
     }
 
+
     private ArrayList<String> getDummyImageList() {
         // todo get images from internal storage
         ArrayList<String> imagesList = new ArrayList<>();
